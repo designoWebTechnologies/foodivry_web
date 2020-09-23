@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.851" height="18.183" viewBox="0 0 18.851 18.183">
+    <defs>
+        <style>
+            .cls-1{opacity:.7}.cls-2{fill:#000}
+        </style>
+    </defs>
+    <g id="person" class="cls-1">
+        <path id="Path_764" d="M9.426 9.092a4.645 4.645 0 0 0 4.713-4.546A4.645 4.645 0 0 0 9.426 0a4.645 4.645 0 0 0-4.713 4.546 4.645 4.645 0 0 0 4.713 4.546zm0 2.273C6.244 11.365 0 12.842 0 15.91v2.273h18.851V15.91c0-3.068-6.244-4.545-9.425-4.545z" class="cls-2" data-name="Path 764"/>
+    </g>
+</svg>
